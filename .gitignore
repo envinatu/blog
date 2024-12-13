@@ -4,3 +4,6 @@
 .Ruserdata
 
 /.quarto/
+/_quarto.yml
+/index.qmd
+/blog_envinatu.r

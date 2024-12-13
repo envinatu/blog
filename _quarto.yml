@@ -13,8 +13,9 @@ website:
         href: https://twitter.com/nvinatu
         
  #   background: light
-    logo: C:/Users/PC/My Drive/CIENCIAS/images/envinatu1.png
+    logo: images/envinatu1.png
     logo-alt: "Envinatu logo."
+    cover-image: "images/envinatu1.png"
   #  title: false
  #   collapse-below: lg
     left:
