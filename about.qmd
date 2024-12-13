@@ -1,0 +1,18 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/envinatu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/marceloamores
+    - icon: github
+      text: Github
+      href: https://github.com/marceloamores
+---
+
+About this blog

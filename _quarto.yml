@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: "Blog Ciencias ENVINATU"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/envinatu
+      - icon: twitter
+        href: https://twitter.com/envinatu
+format:
+  html:
+ #   theme: cosmo
+ #   css: styles.css
+    theme:
+      light:
+        - cosmo #litera # morph # sketchy # default #spacelab # default # cosmo # spacelab sandstone
+        - C:/Users/PC/My Drive/CIENCIAS/comp_files/amores-r4.scss
+      dark:
+        - solar # darkly # cyborg # slate # superhero
+        - C:/Users/PC/My Drive/CIENCIAS/comp_files/amores-r4.scss
+
+editor: visual
+

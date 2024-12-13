@@ -1,0 +1,38 @@
+---
+title: "Una Joya Rara en la Amazonía Ecuatoriana: *Papilio euterpinus*"
+author: "Marcelo F. Amores Palma"
+date: last-modified
+categories: [biodiversidad, inaturalist, lepidoptera]
+image: "large.jpeg"
+# bibliography: references.bib
+---
+
+<iframe height="172px" width="100%" frameBorder="0" src="https://inat-obs-embed.glitch.me/?obs_id=100695001">
+
+</iframe>
+
+A finales de 2016, me encontraba monitoreando insectos, durante una salida de campo de monitoreo ambiental, durante una caminata por la Reserva Ecológica Colonso-Chalupas, en el corazón de la Amazonía ecuatoriana, tuve la fortuna de observar y fotografiar un lepidóptero muy especial: *Papilio euterpinus*.
+
+Este espectacular miembro de los Neotropical Swallowtails es una mariposa rara, caracterizada por su elegancia y colores únicos. Exhibe franjas de un anaranjado vibrante sobre un fondo negro profundo. Aunque su belleza es innegable, *P. euterpinus* sigue siendo un rara en muchas colecciones científicas, y las observaciones en la naturaleza con registro fotográfico son todavía escasas.
+
+📜 **Un poco de ciencia**
+
+Pertenece al grupo de especies *homerus*, que incluye otras maravillas como *P. cacicus* y *P. homerus*.
+
+El género Papilio, perteneciente a la familia Papilionidae, es el único representante de la tribu Papilionini y uno de los más fascinantes en el mundo de las mariposas. Su nombre proviene del latín, donde papilio significa "mariposa". Este grupo incluye cerca de 200 especies distribuidas por todo el mundo, desde las conocidas colas de golondrina norteamericanas como *P. machaon* y *P. rutulus*, hasta especies exóticas como los mormones asiáticos (*P. polytes*, *P. polymnestor*) o las deslumbrantes colas de golondrina australianas como *P. ulysses*.
+
+Las orugas de *Papilio* presentan una estrategia única de camuflaje: durante una etapa de su desarrollo se asemejan a excrementos de aves, una táctica defensiva sorprendentemente efectiva. Además, se alimentan principalmente de plantas de la familia Rutaceae, como cítricos, de los cuales secuestran terpenoides para producir un aceite de olor desagradable que las protege de depredadores.
+
+🌎 **Educación y Conservación**
+
+Encontrar a *P. euterpinus* en Colonso-Chalupas refuerza la importancia de preservar estos hábitats únicos y proteger su biodiversidad.
+
+Cada avistamiento me recuerda la necesidad de valorar y proteger nuestro patrimonio natural. Las especies como *P. euterpinus* no solo son hermosas, sino que también cuentan historias sobre la conexión entre los ecosistemas y el equilibrio de la vida. Compartir estas experiencias es una forma de inspirar a más personas a cuidar de nuestra Amazonía.
+
+📸 Aquí les comparto mi fotografía de este extraordinario lepidóptero.
+
+![Papilio euterpinus](large.jpeg){fig-align="center"}
+
+¿Sabías que muchas mariposas, como *P. euterpinus*, dependen de bosques intactos para sobrevivir?
+
+Comparte este post para que juntos celebremos la biodiversidad y promovamos su conservación.

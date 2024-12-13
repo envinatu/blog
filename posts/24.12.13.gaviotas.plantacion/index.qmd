@@ -1,0 +1,68 @@
+---
+title: "Gaviotas Andinas"
+author: "Marcelo F. Amores Palma"
+date: last-modified
+categories: [biodiversidad, iNaturalist, lepidoptera]
+image: "gaviotas.jpg"
+# bibliography: references.bib
+---
+
+<iframe height="172px" width="100%" frameborder="0" src="https://inat-obs-embed.glitch.me/?obs_id=161339772">
+
+</iframe>
+
+## Una bandada sobre invernaderos
+
+En octubre de 2022, tuve la oportunidad de observar una impresionante bandada de más de 100 gaviotas andinas (*Chroicocephalus serranus*). Aunque estas aves son comunes en la zona, este avistamiento fue especial debido a la cantidad de individuos y al lugar donde ocurrió, sobre los plásticos de una plantación de rosas.
+
+![Chroicocephalus serranus](/posts/24.12.13.gaviotas.plantacion/gaviotas.jpg){fig-align="center"}
+
+Las gaviotas aterrizaban y emprendían vuelo desde las estructuras de los invernaderos. Desde un terreno baldío cercano, logré acercarme lo suficiente para tomar algunas fotografías y grabar videos. Aquí un video del avistamiento:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/AvqUnr5XQuM?si=NC2oYz8i4Aro4C7n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+## Comportamiento y relación con los humanos
+
+La gaviota andina tiene una relación peculiar con las actividades humanas. Es común verla en terrenos recién labrados, reservorios de agua para riego e incluso sobre invernaderos, aunque los propietarios suelen tratar de alejarlas.
+
+En otras ocasiones, he sido testigo de su comportamiento defensivo cuando espantan a aves rapaces como halcones o águilas, posiblemente para proteger a sus crías. Su distintivo canto y vuelos en formación las convierten en aves fascinantes para observar.
+
+## Información científica sobre *Chroicocephalus serranus*
+
+La gaviota andina es una especie de la subfamilia Larinae de la familia Laridae. Se encuentra en los Andes de Argentina, Bolivia, Chile, Colombia, Ecuador y Perú.
+
+## Características principales:
+
+-   **Tamaño:** Entre 42 y 48 cm, con un peso aproximado de 480 g.
+
+-   **Plumaje:** Durante la época de cría, los adultos tienen una capucha negra y un cuerpo blanco con matices grises. Fuera de esta temporada, la cabeza se vuelve blanca.
+
+Distinguir machos de hembras puede ser complicado, ya que ambos tienen un plumaje similar. Sin embargo, en la época reproductiva, los machos suelen presentar un negro más intenso en la cabeza y un contraste más definido con las medias lunas blancas detrás de los ojos, mientras que en las hembras estos colores suelen ser más apagados.
+
+## Distribución y hábitat:
+
+-   Vive en lagos, pantanos y campos de las zonas de puna y páramo entre los 3,000 y 5,300 m.s.n.m., pero también puede encontrarse en la costa durante el invierno.
+
+## Alimentación:
+
+-   Se alimenta de lombrices, insectos, peces pequeños y, ocasionalmente, huevos o polluelos de otras aves.
+
+## Reproducción:
+
+-   Cría mayormente en julio y agosto, en pequeños colonias o de forma solitaria.
+
+## Vocalización:
+
+-   Sus llamados incluyen notas ásperas y a veces temblorosas como "yeeer" o "raggh-aggh-keeaagh". Aqui una grabación que hice en otro avistamiento:
+
+Aquí un vistazo más divertido: [mi video en TikTok](#). ¡Mira cómo se sincronizan con la música friki que elegí de fondo!
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@envinatu/video/7447929722912214278" data-video-id="7447929722912214278" style="max-width: 605px;min-width: 325px;">
+
+
+
+```{=html}
+<script async src="https://www.tiktok.com/embed.js"</script>
+```
