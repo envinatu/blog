@@ -1,5 +1,5 @@
 ---
-title: "Marcelo Amores"
+title: "Marcelo F. Amores Palma"
 listing:
   contents: posts
   sort: "date desc"

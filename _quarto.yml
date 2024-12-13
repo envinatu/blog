@@ -3,14 +3,63 @@ project:
   output-dir: .
 
 website:
-  title: "Blog Ciencias ENVINATU"
+  title: "Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/envinatu
       - icon: twitter
-        href: https://twitter.com/envinatu
+        href: https://twitter.com/nvinatu
+        
+ #   background: light
+    logo: C:/Users/PC/My Drive/CIENCIAS/images/envinatu1.png
+    logo-alt: "Envinatu logo."
+  #  title: false
+ #   collapse-below: lg
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Biología"
+        href: "https://envinatu.github.io/biologia/"
+      - text: "Química"
+        href: "https://envinatu.github.io/quimica/"
+      - text: "Hidrología"
+        href: "https://envinatu.github.io/hidrología"
+      - text: "Educación"
+        href: "https://envinatu.github.io/pedagogia"
+      - text: "Rubick"
+        href: "https://envinatu.github.io/rubick"        
+      - text: "Blog"
+        href: "https://envinatu.github.io/blog"
+      - text: "Sobre Mi"
+        href: "https://envinatu.github.io/amores"  
+
+  back-to-top-navigation: true
+  search: true
+  page-footer:
+    left: |
+      <div style="display:inline;">© <script>document.write(new Date().getFullYear());</script> | <a href="https://github.com/envinatu">ENVINATU</a></div>
+    center: 
+        - icon: linkedin
+          href: https://www.linkedin.com/envinatu
+          aria-label: Marcelo Amores LinkedIn
+        - icon: github
+          href: https://github.com/envinatu
+          aria-label: Envinatu GitHub
+        - icon: x
+          href: https://x.com/nvinatu
+          aria-label: Quarto X
+        - icon: youtube
+          href: https://youtube.com/envinatu
+          aria-label: Envinatu YouTube
+        - icon: envelope
+          href: mailto:contacto.envinatu@gmail.com
+          aria-label: Email Us
+     
+    right: |
+      Built with <a href="https://quarto.org/">Quarto</a>.
+
 format:
   html:
  #   theme: cosmo
@@ -22,6 +71,6 @@ format:
       dark:
         - solar # darkly # cyborg # slate # superhero
         - C:/Users/PC/My Drive/CIENCIAS/comp_files/amores-r4.scss
-
+    include-after-body: C:/Users/PC/My Drive/CIENCIAS/comp_files/footer.html
 editor: visual
 
