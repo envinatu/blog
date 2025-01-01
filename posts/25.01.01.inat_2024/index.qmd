@@ -1,0 +1,60 @@
+---
+title: "Year in Review 2024"
+author: "Marcelo F. Amores Palma"
+date: last-modified
+categories: [iNaturalist]
+image: "inat.jpeg"
+# bibliography: references.bib
+---
+
+Este año ha sido un viaje fascinante explorando la naturaleza y documentando mi experiencia en iNaturalist. Aunque he tenido menos tiempo y recursos para dedicar a la observación, quiero compartir algunos aspectos destacados de este año en cifras y momentos memorables:
+
+## Resumen en números
+
+-   **1,001 observaciones** registradas, abarcando diversos niveles de verificación:
+
+-   **308 especies** identificadas, distribuidas en varios taxones:
+
+    -   Plantas
+
+    -   Insectos
+
+    -   Aves
+
+    -   Mamíferos y más
+
+-   **2,571 identificaciones** realizadas para ayudar a otros usuarios, contribuyendo activamente a la comunidad.
+
+## Momentos destacados
+
+1.  **Rachas de observación**:
+
+    -   Alcancé una racha de **1,472 días** consecutivos realizando observaciones.
+
+2.  **Especies favoritas**:
+
+    -   *Bombus robustus* y otras que capturaron mi atención por su rareza y belleza.
+
+## Impacto colectivo
+
+Mis contribuciones han tenido un impacto más allá de iNaturalist. Por ejemplo:
+
+-   **Observaciones** fueron incorporadas a la base de datos global de biodiversidad **GBIF**.
+
+-   Nuevas especies observadas este año se sumaron al conocimiento general, enriqueciendo el estudio y conservación de la biodiversidad.
+
+## Comparación con años anteriores
+
+Este año fue menos activo en cuanto a observaciones en comparación con años previos, debido a limitaciones de tiempo y materiales. A pesar de ello, logré mantener un flujo constante de registros y descubrimientos.
+
+## Gratitud a la comunidad
+
+Este viaje no sería posible sin la ayuda de otros naturalistas:
+
+-   **Nelson Miranda**, **Diego Fernando** y **sbushes** como principales identificadores de mis observaciones.
+
+-   Ayudé a **831 personas**, reafirmando mi compromiso con la colaboración comunitaria.
+
+## Reflexiones finales
+
+2024 fue un año de descubrimientos, aprendizaje y conexión con la naturaleza. Me emociona lo que traerá 2025. Si quieres explorar más detalles de mis observaciones, visita mi [Year in Review 2024](https://www.inaturalist.org/stats/2024/marceloamores).

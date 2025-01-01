@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Marcelo F. Amores Palma">
 
-<title>Marcelo F. Amores Palma – Blog</title>
+<title>Year in Review 2024 – Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,79 +69,21 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Buscar"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/envinatu1.png" alt="Envinatu logo." class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/envinatu1.png" alt="Envinatu logo." class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Blog</span>
     </a>
   </div>
@@ -153,7 +94,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item">
@@ -187,7 +128,7 @@ window.Quarto = {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -211,197 +152,102 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Marcelo F. Amores Palma</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Year in Review 2024</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">iNaturalist</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Autor/a</div>
+      <div class="quarto-title-meta-contents">
+               <p>Marcelo F. Amores Palma </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Fecha de publicación</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">1 de enero de 2025</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(4)</span></div><div class="category" data-category="biodiversidad">biodiversidad <span class="quarto-category-count">(2)</span></div><div class="category" data-category="iNaturalist">iNaturalist <span class="quarto-category-count">(2)</span></div><div class="category" data-category="inaturalist">inaturalist <span class="quarto-category-count">(1)</span></div><div class="category" data-category="kahoot">kahoot <span class="quarto-category-count">(1)</span></div><div class="category" data-category="lepidoptera">lepidoptera <span class="quarto-category-count">(2)</span></div><div class="category" data-category="pregrado">pregrado <span class="quarto-category-count">(1)</span></div><div class="category" data-category="tesis">tesis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="unach">unach <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>Este año ha sido un viaje fascinante explorando la naturaleza y documentando mi experiencia en iNaturalist. Aunque he tenido menos tiempo y recursos para dedicar a la observación, quiero compartir algunos aspectos destacados de este año en cifras y momentos memorables:</p>
+<section id="resumen-en-números" class="level2">
+<h2 class="anchored" data-anchor-id="resumen-en-números">Resumen en números</h2>
+<ul>
+<li><p><strong>1,001 observaciones</strong> registradas, abarcando diversos niveles de verificación:</p></li>
+<li><p><strong>308 especies</strong> identificadas, distribuidas en varios taxones:</p>
+<ul>
+<li><p>Plantas</p></li>
+<li><p>Insectos</p></li>
+<li><p>Aves</p></li>
+<li><p>Mamíferos y más</p></li>
+</ul></li>
+<li><p><strong>2,571 identificaciones</strong> realizadas para ayudar a otros usuarios, contribuyendo activamente a la comunidad.</p></li>
+</ul>
+</section>
+<section id="momentos-destacados" class="level2">
+<h2 class="anchored" data-anchor-id="momentos-destacados">Momentos destacados</h2>
+<ol type="1">
+<li><p><strong>Rachas de observación</strong>:</p>
+<ul>
+<li>Alcancé una racha de <strong>1,472 días</strong> consecutivos realizando observaciones.</li>
+</ul></li>
+<li><p><strong>Especies favoritas</strong>:</p>
+<ul>
+<li><em>Bombus robustus</em> y otras que capturaron mi atención por su rareza y belleza.</li>
+</ul></li>
+</ol>
+</section>
+<section id="impacto-colectivo" class="level2">
+<h2 class="anchored" data-anchor-id="impacto-colectivo">Impacto colectivo</h2>
+<p>Mis contribuciones han tenido un impacto más allá de iNaturalist. Por ejemplo:</p>
+<ul>
+<li><p><strong>Observaciones</strong> fueron incorporadas a la base de datos global de biodiversidad <strong>GBIF</strong>.</p></li>
+<li><p>Nuevas especies observadas este año se sumaron al conocimiento general, enriqueciendo el estudio y conservación de la biodiversidad.</p></li>
+</ul>
+</section>
+<section id="comparación-con-años-anteriores" class="level2">
+<h2 class="anchored" data-anchor-id="comparación-con-años-anteriores">Comparación con años anteriores</h2>
+<p>Este año fue menos activo en cuanto a observaciones en comparación con años previos, debido a limitaciones de tiempo y materiales. A pesar de ello, logré mantener un flujo constante de registros y descubrimientos.</p>
+</section>
+<section id="gratitud-a-la-comunidad" class="level2">
+<h2 class="anchored" data-anchor-id="gratitud-a-la-comunidad">Gratitud a la comunidad</h2>
+<p>Este viaje no sería posible sin la ayuda de otros naturalistas:</p>
+<ul>
+<li><p><strong>Nelson Miranda</strong>, <strong>Diego Fernando</strong> y <strong>sbushes</strong> como principales identificadores de mis observaciones.</p></li>
+<li><p>Ayudé a <strong>831 personas</strong>, reafirmando mi compromiso con la colaboración comunitaria.</p></li>
+</ul>
+</section>
+<section id="reflexiones-finales" class="level2">
+<h2 class="anchored" data-anchor-id="reflexiones-finales">Reflexiones finales</h2>
+<p>2024 fue un año de descubrimientos, aprendizaje y conexión con la naturaleza. Me emociona lo que traerá 2025. Si quieres explorar más detalles de mis observaciones, visita mi <a href="https://www.inaturalist.org/stats/2024/marceloamores">Year in Review 2024</a>.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="iNaturalist" data-listing-date-sort="1735767870000" data-listing-file-modified-sort="1735767870432" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="306">
-<div class="thumbnail">
-<p><a href="./posts/25.01.01.inat_2024/index.html" class="no-external"></a></p><a href="./posts/25.01.01.inat_2024/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/25.01.01.inat_2024/inat.jpeg" class="thumbnail-image"></p>
-</a><p><a href="./posts/25.01.01.inat_2024/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/25.01.01.inat_2024/index.html" class="no-external">Year in Review 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/25.01.01.inat_2024/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('iNaturalist'); return false;">
-iNaturalist
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/25.01.01.inat_2024/index.html" class="no-external">Este año ha sido un viaje fascinante explorando la naturaleza y documentando mi experiencia en iNaturalist. Aunque he tenido menos tiempo y recursos para dedicar a la…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/25.01.01.inat_2024/index.html" class="no-external">
-<div class="listing-date">
-1 ene 2025
-</div>
-<div class="listing-author">
-Marcelo F. Amores Palma
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="biodiversidad,iNaturalist,lepidoptera" data-listing-date-sort="1734107371000" data-listing-file-modified-sort="1734107371965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="434">
-<div class="thumbnail">
-<p><a href="./posts/24.12.13.gaviotas.plantacion/index.html" class="no-external"></a></p><a href="./posts/24.12.13.gaviotas.plantacion/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24.12.13.gaviotas.plantacion/gaviotas.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24.12.13.gaviotas.plantacion/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24.12.13.gaviotas.plantacion/index.html" class="no-external">Gaviotas Andinas</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24.12.13.gaviotas.plantacion/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('biodiversidad'); return false;">
-biodiversidad
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('iNaturalist'); return false;">
-iNaturalist
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('lepidoptera'); return false;">
-lepidoptera
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24.12.13.gaviotas.plantacion/index.html" class="no-external">En octubre de 2022, tuve la oportunidad de observar una impresionante bandada de más de 100 gaviotas andinas (<em>Chroicocephalus serranus</em>). Aunque estas aves son comunes en la…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24.12.13.gaviotas.plantacion/index.html" class="no-external">
-<div class="listing-date">
-13 dic 2024
-</div>
-<div class="listing-author">
-Marcelo F. Amores Palma
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="tesis,pregrado,unach,kahoot" data-listing-date-sort="1734062209000" data-listing-file-modified-sort="1734062209748" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
-<div class="thumbnail">
-<p><a href="./posts/24.12.01_tesis_inat/index.html" class="no-external"></a></p><a href="./posts/24.12.01_tesis_inat/index.html" class="no-external">
-<p><img loading="lazy" src="http://dspace.unach.edu.ec/image/unach-banner.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24.12.01_tesis_inat/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24.12.01_tesis_inat/index.html" class="no-external">iNaturalist, UNACH 2020</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24.12.01_tesis_inat/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('tesis'); return false;">
-tesis
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('pregrado'); return false;">
-pregrado
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('unach'); return false;">
-unach
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('kahoot'); return false;">
-kahoot
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24.12.01_tesis_inat/index.html" class="no-external"><strong>Recursos</strong></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24.12.01_tesis_inat/index.html" class="no-external">
-<div class="listing-date">
-12 dic 2024
-</div>
-<div class="listing-author">
-Marcelo F. Amores Palma
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="biodiversidad,inaturalist,lepidoptera" data-listing-date-sort="1734059587000" data-listing-file-modified-sort="1734059587559" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="367">
-<div class="thumbnail">
-<p><a href="./posts/24.12.13.lepidiotera.tena/index.html" class="no-external"></a></p><a href="./posts/24.12.13.lepidiotera.tena/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24.12.13.lepidiotera.tena/large.jpeg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24.12.13.lepidiotera.tena/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24.12.13.lepidiotera.tena/index.html" class="no-external">Una Joya Rara en la Amazonía Ecuatoriana: <em>Papilio euterpinus</em></a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24.12.13.lepidiotera.tena/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('biodiversidad'); return false;">
-biodiversidad
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('inaturalist'); return false;">
-inaturalist
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('lepidoptera'); return false;">
-lepidoptera
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24.12.13.lepidiotera.tena/index.html" class="no-external">A finales de 2016, me encontraba monitoreando insectos, durante una salida de campo de monitoreo ambiental, durante una caminata por la Reserva Ecológica Colonso-Chalupas…<em></em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24.12.13.lepidiotera.tena/index.html" class="no-external">
-<div class="listing-date">
-12 dic 2024
-</div>
-<div class="listing-author">
-Marcelo F. Amores Palma
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No hay resultados
-</div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a></main> <!-- /main -->
 &nbsp;
 <hr>
 
