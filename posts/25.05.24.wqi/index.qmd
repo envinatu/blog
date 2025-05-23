@@ -1,0 +1,64 @@
+---
+title: "Parámetros Fisicoquímicos y Microbiológicos en la Calidad del Agua"
+author: "Marcelo F. Amores Palma"
+date: last-modified
+categories: [calidad de agua, análisis ambiental, R, Python, Julia]
+---
+
+## Introducción
+
+El agua es un recurso vital para la vida y el desarrollo sostenible. Su calidad influye directamente en la salud humana, la biodiversidad acuática, la agricultura, la industria y el suministro de agua potable. Para asegurar su idoneidad para diferentes usos, es fundamental caracterizarla mediante diversos parámetros fisicoquímicos y microbiológicos que permiten evaluar su estado y posibles riesgos.
+
+Este post introduce los conceptos clave en el análisis de calidad del agua, describiendo los principales parámetros que se deben monitorear y explorando herramientas digitales disponibles en R, Python y Julia para su análisis. Forma parte de una serie de publicaciones orientadas a fortalecer las capacidades técnicas en evaluación ambiental.
+
+## Parámetros Fisicoquímicos
+
+Los parámetros fisicoquímicos permiten caracterizar las propiedades físicas y químicas del agua. Entre los más relevantes se incluyen:
+
+* **Temperatura**: Afecta la solubilidad de gases y las tasas metabólicas de organismos acuáticos.
+* **pH**: Indica la acidez o alcalinidad del agua. Valores extremos pueden ser tóxicos para la vida acuática.
+* **Oxígeno disuelto (OD)**: Esencial para la respiración de organismos acuáticos.
+* **Conductividad eléctrica**: Relacionada con la concentración de sales disueltas.
+* **Demanda Bioquímica de Oxígeno (DBO)** y **Demanda Química de Oxígeno (DQO)**: Indicadores de contaminación orgánica.
+* **Turbidez**: Asociada a la presencia de sólidos suspendidos.
+
+## Parámetros Microbiológicos
+
+Los indicadores microbiológicos permiten detectar la presencia de microorganismos patógenos o contaminación fecal. Los más comunes son:
+
+* **Coliformes totales**
+* **Coliformes fecales (Escherichia coli)**
+* **Enterococos intestinales**
+
+Estos parámetros son esenciales para el control sanitario del agua potable y recreacional.
+
+## Herramientas Digitales para el Análisis de Calidad del Agua
+
+Existen diversas plataformas y paquetes en lenguajes como R, Python y Julia que permiten procesar, visualizar y analizar datos de calidad de agua:
+
+### En R
+
+* `tidyverse`: Para manipulación y visualización de datos.
+* `waterData`: Para gestionar datos hidrológicos.
+* `ggplot2`: Para generar gráficos personalizados de variables fisicoquímicas.
+* `EnvStats`: Estadística ambiental aplicada al agua.
+
+### En Python
+
+* `pandas` y `numpy`: Para análisis de datos tabulares.
+* `matplotlib` y `seaborn`: Visualización de datos.
+* `scikit-learn`: Análisis multivariado y clasificación de muestras.
+
+### En Julia
+
+* `DataFrames.jl`: Análisis estructurado de datos.
+* `Plots.jl`: Visualización gráfica.
+* `StatsBase.jl`: Funciones estadísticas básicas para descripción y comparación de parámetros.
+
+## Conclusión
+
+El conocimiento y monitoreo de los parámetros fisicoquímicos y microbiológicos del agua es esencial para su gestión sustentable. En futuras publicaciones profundizaremos en cada grupo de parámetros, su interpretación y aplicaciones mediante ejemplos prácticos con herramientas de cómputo científico.
+
+---
+
+**Próximo post**: "Análisis de pH y conductividad en aguas continentales: cómo interpretarlos y representarlos gráficamente con R"
